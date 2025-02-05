@@ -35,7 +35,7 @@ def bottle_verse(number):
 Take one down, pass it around
 {number - 1} bottles of beer on the wall
     """)
-    elif number == 1: # Singular
+    elif number == 1: #Singular
         print(f"""
 {number} bottle of beer on the wall
 {number} bottle of beer 
